@@ -1,0 +1,16 @@
+
+
+
+1.  git clone <url>
+
+2.  copy n paste in diff folder
+
+3.  delete code from repo
+
+4.  git status
+
+5.  git add.
+
+6.  git commit -m "message"
+
+7.  git push
